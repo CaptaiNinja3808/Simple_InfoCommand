@@ -9,8 +9,8 @@ Some very easy info commands:
 
 # NPM 
 
-``
+```
 
 npm i discord.js@12.5.3
 
-``
+```
